@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 GitHub User Search
 
 A modern React application that allows users to search GitHub profiles using the GitHub REST API. Users can search any GitHub username and view profile details like avatar, name, followers, following, and public repositories.
@@ -75,3 +76,7 @@ https://api.github.com/users/octocat
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
+=======
+# github-user-search
+A React application to search GitHub users and display their profile information using the GitHub REST API.
+>>>>>>> 75b66bb5ddadc81b8b08867aaa59236f4c6c64ff
