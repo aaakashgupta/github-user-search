@@ -70,8 +70,8 @@ https://api.github.com/users/octocat
 
 **Akash Gupta**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME
+- GitHub:https://github.com/aaakashgupta
+- LinkedIn: https://www.linkedin.com/in/akash-gupta-0b8725339?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## ⭐ Support
 
@@ -79,4 +79,4 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 =======
 # github-user-search
 A React application to search GitHub users and display their profile information using the GitHub REST API.
->>>>>>> 75b66bb5ddadc81b8b08867aaa59236f4c6c64ff
+>>>>>>> 
