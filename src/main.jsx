@@ -3,9 +3,9 @@ import { createRoot } from "react-dom/client";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import "./index.css";
 import App from "./App.jsx";
-import SearchPage from "./pages/SearchPage.jsx";
-import ResultPage from "./pages/ResultPage.jsx";
-import AboutPage from "./pages/AboutPage.jsx";
+import SearchPage from "./Pages/SearchPage.jsx";
+import ResultPage from "./Pages/ResultPage.jsx";
+import AboutPage from "./Pages/AboutPage.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
